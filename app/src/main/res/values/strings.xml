@@ -10,4 +10,8 @@
     <string name="YELLOW">YELLOW</string>
     <string name="RANDOM">RANDOM</string>
     <string name="COL">Press Buttons and take look the colors</string>
+    <string name="ABOVE">ABOVE</string>
+    <string name="right">Right</string>
+    <string name="LEFT">LEFT</string>
+    <string name="BOTTOM">BOTTOM</string>
 </resources>
