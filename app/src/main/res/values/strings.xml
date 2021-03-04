@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">First project</string>
+    <string name="name">Enter your Name</string>
+    <string name="ID">ID</string>
+    <string name="job">Job</string>
+    <string name="phone">Phone</string>
+    <string name="password">PW</string>
+    <string name="passwordnm">숫자 8자</string>
+    <string name="signup">Sign Up</string>
+</resources>
