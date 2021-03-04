@@ -23,4 +23,6 @@
     <string name="threeBTN">THREE</string>
     <string name="fourBTN">FOUR</string>
     <string name="fiveBTN">FIVE</string>
+    <string name="img">img</string>
+    <string name="center">centerBTN</string>
 </resources>

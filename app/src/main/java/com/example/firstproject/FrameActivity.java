@@ -16,6 +16,8 @@ public class FrameActivity extends AppCompatActivity {
         setContentView(R.layout.activity_frame);
     }
 
+    // 버튼 누르면 사라지기
+
     public void onClick(View v){
         v.setVisibility(View.GONE);
     }
