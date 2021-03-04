@@ -7,4 +7,7 @@
     <string name="password">PW</string>
     <string name="passwordnm">숫자 8자</string>
     <string name="signup">Sign Up</string>
+    <string name="YELLOW">YELLOW</string>
+    <string name="RANDOM">RANDOM</string>
+    <string name="COL">Press Buttons and take look the colors</string>
 </resources>

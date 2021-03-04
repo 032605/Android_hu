@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/JoinEvent"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="center_horizontal"
@@ -8,10 +9,10 @@
     android:padding="10dp">
 
     <TextView
-        android:id="@+id/textView7"
+        android:id="@+id/titleTXT"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="TextView" />
+        android:text="@string/COL" />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -20,18 +21,27 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/buttonEvent"
+            android:id="@+id/buttonEvent1"
             style="?android:attr/buttonBarButtonStyle"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:onClick="clickColFunc"
             android:paddingTop="20dp"
             android:paddingBottom="20dp"
-            android:text="@android:string/search_go"
+            android:text="@string/YELLOW"
+            android:visibility="visible"
             app:backgroundTint="@color/purple_500" />
 
+        <TextView
+            android:id="@+id/titleinv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="TextView" />
+
         <Button
-            android:id="@+id/button4"
+            android:id="@+id/buttonEvent2"
             style="?android:attr/buttonBarButtonStyle"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -40,9 +50,10 @@
             android:layout_marginEnd="50dp"
             android:layout_marginRight="50dp"
             android:layout_weight="1"
+            android:onClick="clickColFunc"
             android:paddingLeft="4dp"
             android:paddingRight="4dp"
-            android:text="@android:string/ok"
+            android:text="@string/RANDOM"
             app:backgroundTint="@color/teal_700" />
 
     </LinearLayout>
