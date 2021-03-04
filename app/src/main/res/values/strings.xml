@@ -18,4 +18,9 @@
     <string name="avocado">복카도</string>
     <string name="avoInfo">안녕하세요 복카도입니다.</string>
     <string name="talkTime">3:36 PM</string>
+    <string name="oneBTN">ONE</string>
+    <string name="twoBTN">TWO</string>
+    <string name="threeBTN">THREE</string>
+    <string name="fourBTN">FOUR</string>
+    <string name="fiveBTN">FIVE</string>
 </resources>

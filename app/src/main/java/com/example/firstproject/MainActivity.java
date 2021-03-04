@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
 
         }else if (v.getId() == R.id.titleTXT) {
             Log.i(TAG, "A GoOd DaY");
-        }
+            }
 
-        }
+    }
 }
