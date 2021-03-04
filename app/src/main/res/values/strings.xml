@@ -14,4 +14,8 @@
     <string name="right">Right</string>
     <string name="LEFT">LEFT</string>
     <string name="BOTTOM">BOTTOM</string>
+    <string name="hint">사라짐</string>
+    <string name="avocado">복카도</string>
+    <string name="avoInfo">안녕하세요 복카도입니다.</string>
+    <string name="talkTime">3:36 PM</string>
 </resources>
