@@ -2,6 +2,7 @@ package com.example.firstproject;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.util.Log;
@@ -35,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         //사용자에게 보여지는 화면 설정
-        setContentView(R.layout.padding_margin);
+        setContentView(R.layout.activity_main);
         // 디버깅을 위한 로그 출력
         Log.i(TAG, "oncreate()");
         // 간단한 메시지 창 띄우기, 반드시 show()해야지 화면에 보인다!~!!!!!!
@@ -59,6 +60,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
     */
+
         //버튼 클릭 시 배경화면 색 변경
     public void clickColFunc(View v){
 

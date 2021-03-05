@@ -25,4 +25,8 @@
     <string name="fiveBTN">FIVE</string>
     <string name="img">img</string>
     <string name="center">centerBTN</string>
+    <string name="bokcado">bokcado</string>
+    <string name="nothing">nothing!</string>
+    <string name="main">main</string>
+    <string name="back">back</string>
 </resources>

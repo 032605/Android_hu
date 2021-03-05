@@ -9,7 +9,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:onClick="onClick"
-        android:text="@string/oneBTN"/>
+        android:text="@string/oneBTN" />
 
     <Button
         android:id="@+id/twoBTN"
